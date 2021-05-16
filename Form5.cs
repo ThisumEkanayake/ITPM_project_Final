@@ -16,5 +16,13 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form1 f = new Form1();
+            f.Show();
+            this.Hide();
+
+        }
     }
 }
