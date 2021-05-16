@@ -11,3 +11,4 @@ C:\Users\Thisum Ekanayake\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Deb
 C:\Users\Thisum Ekanayake\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
 C:\Users\Thisum Ekanayake\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
 C:\Users\Thisum Ekanayake\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Thisum Ekanayake\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
